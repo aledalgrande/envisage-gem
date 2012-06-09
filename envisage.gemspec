@@ -2,10 +2,10 @@
 require File.expand_path('../lib/envisage/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["aledalgrande"]
-  gem.email         = ["aledalgrande@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.authors       = ["Alessandro Dal Grande"]
+  gem.email         = ["adgror@gmail.com"]
+  gem.description   = %q{TODO: Cucumber formatter to push data to the Envisage visualisation server}
+  gem.summary       = %q{TODO: Cucumber formatter for Envisage}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)

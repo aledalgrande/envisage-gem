@@ -1,6 +1,6 @@
 # Envisage
 
-TODO: Write a gem description
+Cucumber formatter to push data to the Envisage visualisation server.
 
 ## Installation
 
