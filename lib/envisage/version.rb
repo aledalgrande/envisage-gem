@@ -1,0 +1,3 @@
+module Envisage
+  VERSION = "0.0.1"
+end
