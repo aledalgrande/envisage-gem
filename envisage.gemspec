@@ -7,11 +7,11 @@ Gem::Specification.new do |gem|
   gem.description   = %q{Cucumber formatter to push data to the Envisage visualisation server}
   gem.summary       = %q{Cucumber formatter for Envisage}
   gem.homepage      = ""
-
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.name          = "envisage"
   gem.require_paths = ["lib"]
   gem.version       = Envisage::VERSION
+  gem.add_development_dependency('rspec')
 end
