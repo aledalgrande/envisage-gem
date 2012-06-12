@@ -1,4 +1,4 @@
-# Envisage [<img src="https://secure.travis-ci.org/aledalgrande/envisage-gem.png"/>](http://travis-ci.org/aledalgrande/envisage-gem)
+# Envisage [![envisage-gem](https://secure.travis-ci.org/aledalgrande/envisage-gem.png)](http://travis-ci.org/aledalgrande/envisage-gem)
 
 Cucumber formatter to push data to the Envisage visualisation server.
 
