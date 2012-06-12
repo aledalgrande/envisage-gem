@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = Envisage::VERSION
   gem.add_development_dependency('rspec')
-  gem.add_dependendecy('rake')
+  gem.add_dependency('rake')
 end
